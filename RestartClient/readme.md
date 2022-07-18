@@ -1,4 +1,4 @@
-# Restart OTClient
+# OTClientv8 RestartClient
 *By DanneMz - Discord: DanneMz#1509*
 
 ## Functions:
