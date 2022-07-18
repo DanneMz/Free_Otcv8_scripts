@@ -1,4 +1,5 @@
 # Setup
+- AutoLogin Character
 
 Step 1: Init EnterGame & load restartConfig.json 
 - add at bottom of /Init.lua
