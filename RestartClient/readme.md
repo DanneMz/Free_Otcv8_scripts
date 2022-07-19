@@ -19,8 +19,7 @@
 - Make setup in the OTClient.exe folder.
 
 ## If using Updating Client (data.zip): 
-- Do the disable updater at the bottom,
-  befor the setup.
+- First do how to disable updater at the bottom.
 
 # Setup
 
@@ -83,7 +82,10 @@ if restartConfig.restart then
 		end
 	end
 end 
-```
+
+## Setup Completed:
+- Now you can run the RestartClient.lua on your vBot,
+  and it will auto-login restarted characters. 
 
 ## F.A.Q
 ### How to setup autoLogin?
@@ -121,8 +123,8 @@ end
   select open data.zip in Winrar etc and press "yes" on the "do you wish to update in the archive?".
 
 ### How to enable update in Client again: 
-- Save the Init.lua & Entergame.lua from %appdata%.
+- Save the Init.lua & Entergame.lua from %appdata% to your desktop.
 - Put Updater Link back in Init.lua in data.zip at OTClient.exe folder.
 - <ins>Important</ins> after every Setup changes in data.zip, to update the archive(data.zip)
   select open data.zip in Winrar etc and press "yes" on the "do you wish to update in the archive?".
-
+- Run the client & it will update.
