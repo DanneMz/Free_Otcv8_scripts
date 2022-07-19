@@ -84,7 +84,7 @@ if restartConfig.restart then
 end 
 ```
 
-## Setup Completed:
+## Setup Completed.
 - Now you can run the RestartClient.lua on your vBot,
   and it will auto-login restarted characters. 
 
