@@ -82,6 +82,7 @@ if restartConfig.restart then
 		end
 	end
 end 
+```
 
 ## Setup Completed:
 - Now you can run the RestartClient.lua on your vBot,
