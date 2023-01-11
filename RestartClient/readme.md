@@ -53,10 +53,9 @@ end
 
 ## Step 2: Entergame.CharacterList choose player
 - /modules/client_entergame/entergame.lua
-- find: 
-<ins>CharacterList.show()
-
-  g_settings.save()</ins>
+- find:
+CharacterList.show()
+g_settings.save()
 - add code below line 61.
 
 ### Code: 
