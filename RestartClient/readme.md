@@ -58,6 +58,10 @@ end
 CharacterList.show()
 g_settings.save()
 ```
+- or in older clients find:
+```ruby --
+CharacterList.save()
+```
 - add code below line 61.
 
 ### Code: 
