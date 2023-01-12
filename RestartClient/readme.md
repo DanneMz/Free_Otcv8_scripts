@@ -54,10 +54,10 @@ end
 ## Step 2: Entergame.CharacterList choose player
 - /modules/client_entergame/entergame.lua
 - find:
-CharacterList.show()
+```ruby -- CharacterList.show()
 g_settings.save()
 - add code below line 61.
-
+```
 ### Code: 
 
 ```ruby -- CharacterList.save() -- add code below this line
