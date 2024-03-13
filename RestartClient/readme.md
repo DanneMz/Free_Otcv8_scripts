@@ -9,7 +9,7 @@
 
  ## Preview image:
 
-  ![Alt text](https://media.discordapp.net/attachments/940724833233285200/998378480465105057/unknown.png)
+  ![Alt text]([https://media.discordapp.net/attachments/940724833233285200/998378480465105057/unknown.png](https://media.discordapp.net/attachments/1000852435767677128/1217396801758298132/image.png?ex=6603e01f&is=65f16b1f&hm=1293c7328494b1a0acbf5f0bdfdffe51a2da1565eba7ebeb85765b94ca4fc13b&=&format=webp&quality=lossless))
 
 ## Requirements: 
 - Setup 
